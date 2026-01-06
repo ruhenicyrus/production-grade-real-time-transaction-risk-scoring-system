@@ -31,3 +31,5 @@ build/
 
 # Ignore secrets / config (if you have any)
 *.env
+#Ignore transactions.db
+transactions.db
